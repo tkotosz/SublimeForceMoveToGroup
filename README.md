@@ -28,5 +28,5 @@ For example you can setup the following key-bindings:
 ```
 This will override the default "move_to_group" bindings. Then you are good to go.
 
-If you have a few tabs open then just pick one then "ctrl+shift+2", then that tab will move to new group so you can view it side-by-side with other files. You can switch between the left and right group with ctrl+1 and ctrl+2 (default key bindings) and you can move any tab from right to left with "ctrl+shift+2" and from left to right with "ctrl+shift+1". I think it is much easier to remember "ctrl+num" for navigating between groups and "ctrl+shift+num" to move tabs between groups.
-Oh and also if you you move the last tab from left to right (so no more tab left in group 2) then it will automatically close that empty group. :)
+If you have a few tabs open then just pick one then "ctrl+shift+2", then that tab will move to new group so you can view it side-by-side with other files. You can switch between the left and right group with ctrl+1 and ctrl+2 (default key bindings) and you can move any tab from left to right with "ctrl+shift+2" and from right to left with "ctrl+shift+1". I think it is much easier to remember "ctrl+num" for navigating between groups and "ctrl+shift+num" to move tabs between groups.
+Oh and also if you you move the last tab from right to left (so no more tab left in group 2) then it will automatically close that empty group. :)

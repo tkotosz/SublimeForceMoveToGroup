@@ -4,6 +4,7 @@ Sublime Plugin to force move view to group
 By default sublime has key binding to switch between groups:
 
 ctrl+1: focus group 0
+
 ctrl+2: focus group 1
 
 ... and so on until ctrl+9
@@ -11,6 +12,7 @@ ctrl+2: focus group 1
 in addition to this it has key binding to move the current view (tab) to a group:
 
 ctrl+shift+1: move to group 0
+
 ctrl+shift+2: move to group 1
 
 ... and so on until ctrl+shift+9
